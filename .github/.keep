@@ -1,0 +1,7 @@
+print("Hello, World!")
+Name = (input("Enter your name: ")) 
+Age = str(int(input("Enter your age: ")))
+Height = str(float(input("Enter your height: ")))
+Hello = print("Hello, " + name + "!")
+Your_age = print("You are " + (Age) + " years old.")
+Your_height = print("Your height is " + Height + " meters.")
